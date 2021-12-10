@@ -1,8 +1,8 @@
 # Asteroids Tutorial Project
-Introducing JavaScript Game Development
-*Build a 2D Game from the Ground Up*
-Author: Graeme Stuart
-> Live demo [_here_](https://martynhorslen.github.io/asteroids/).
+- Introducing JavaScript Game Development
+- *Build a 2D Game from the Ground Up*
+- Author: Graeme Stuart
+- Live Github Pages demo [_here_](https://martynhorslen.github.io/asteroids/).
 
 ## Table of Contents
 * [General Info](#general-information)
