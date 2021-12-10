@@ -2,7 +2,7 @@
 Introducing JavaScript Game Development
 *Build a 2D Game from the Ground Up*
 Author: Graeme Stuart
-> <!-- Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://martynhorslen.github.io/asteroids/).
 
 ## Table of Contents
 * [General Info](#general-information)
